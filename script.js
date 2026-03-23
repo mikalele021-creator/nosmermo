@@ -33,13 +33,23 @@
  //   console.log(" Não pode entrar.");
 //}
 
-let horas = 12
+//let horas = 12
 
-if(horas <= 12){
-    console.log("Bom dia!")
+//if(horas <= 12){
+   // console.log("Bom dia!")
 
-}else if(horas > 12 && horas<= 18){
-    console.log( "Boa tarde!")
-} else{
-    console.log( " Boa Noite!")
+//}else if(horas > 12 && horas<= 18){
+  //  console.log( "Boa tarde!")
+//} else{
+   // console.log( " Boa Noite!")
+//}
+
+let numberOne = 14
+let numberTwo = 2
+let resto = numberOne % numberTwo
+
+if(resto == 0){
+    console.log( "par")
+}else{ 
+    console("impar")
 }
