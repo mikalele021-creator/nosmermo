@@ -74,39 +74,52 @@
 
 //TERCEIRA
 
-//for(let i = 1 ; i <= 10; i++){
-  //console.log( `5 x ${i}= ${5 * i}`);
-//}
+//console.log(`tabuada do 5`)
+//console.log(`5 * 1 = 5`)
+//console.log(`5 * 2 = 10`)
+//console.log(`5 * 3 = 15`)
+//console.log(`5 * 4 = 20`)
+//console.log(`5 * 5 = 25`)
+//console.log(`5 * 6 = 30`)
+//console.log(`5 * 7 = 35`)
+//console.log(`5 * 8 = 40`)
+//console.log(`5 * 9 = 45`)
+//console.log(`5 * 10 = 50`)
 
 
 //QUARTA
 
-//let num= 10
-//let fatorial = 1;
-//for (let i = num; i > 1; i--) {
-  //fatorial *= i;
-//}
-//console.log("fatorial:", fatorial);
+//let numberOne = 8
+//let numberTwo = 8
 
+//let pot = numberOne ** numberTwo
+//console.log(` A potência de ${numberOne} e ${numberTwo} é ${pot}`)
 
 //QUINTA
 
-let n1 = 8
-let n2 = 9
-let  n3 = 10
-let media = (n1 + n2 + n3) / 3;
-console.log ("média:", media);
-if (media >= 7){
-  console.log("aprovado");
-}else if (media >= 5){
-  console.log(recuperação);
-}else{
-  console.log("reprovado");
-}
+//let n1 = 5
+//let n2 = 4
+//let  n3 = 2
+//let media = (n1 + n2 + n3) / 3;
+//console.log ("média:", media);
+//if (media >= 7){
+ // console.log("aprovado");
+//}else if (media >= 5){
+//  console.log(recuperação);
+//}else{
+//  console.log("reprovado");
+//}
 
 //SEXTA 
 
-
-//for (let i = 10; i >= 0; i--) {
-  //console.log(i);
-//}
+console.log(`10`)
+console.log(`9`)
+console.log(`8`)
+console.log(`7`)
+console.log(`6`)
+console.log(`5`)
+console.log(`4`)
+console.log(`3`)
+console.log(`2`)
+console.log(`1`)
+console.log(`0`)
