@@ -87,6 +87,13 @@
 //console.log(`5 * 10 = 50`)
 
 
+// USO DO FOR
+
+
+//for (let i = 1; i <= 10; i++) {
+//console.log ( "5 x " + i + " = " + (5 * i));
+//}
+
 //QUARTA
 
 //let numberOne = 8
@@ -124,3 +131,7 @@
 //console.log(`2`)
 //console.log(`1`)
 //console.log(`0`)
+
+for (let i = 10; i >= 0; i--){
+  console.log(i);
+}
